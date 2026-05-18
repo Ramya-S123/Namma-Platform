@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408467846457",
+    "project_id": "namma-platform-33e15",
+    "storage_bucket": "namma-platform-33e15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408467846457:android:cad4c356e50568ed86a4e8",
+        "android_client_info": {
+          "package_name": "com.namma.platform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRCBR92GqMyxtXNdd-wxcZjYT99tQ8oKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

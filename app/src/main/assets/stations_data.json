@@ -1,0 +1,280 @@
+{
+  "stations": [
+    {
+      "id": 1,
+      "name": "Mysuru",
+      "nameKannada": "ಮೈಸೂರು",
+      "code": "MYS",
+      "trains": [
+        {
+          "trainNumber": "16227",
+          "trainName": "Mysuru Express",
+          "trainNameKannada": "ಮೈಸೂರು ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "platform": 2,
+          "arrivalTime": "08:15",
+          "departureTime": "08:20",
+          "status": "ON_TIME",
+          "coachSequence": ["Engine", "General", "S1", "S2", "S3", "Ladies", "Sleeper", "AC"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 5
+        },
+        {
+          "trainNumber": "16591",
+          "trainName": "Hampi Express",
+          "trainNameKannada": "ಹಂಪಿ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "platform": 1,
+          "arrivalTime": "10:30",
+          "departureTime": "10:35",
+          "status": "DELAYED",
+          "coachSequence": ["Engine", "General", "S1", "Ladies", "S2", "Sleeper"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 3
+        },
+        {
+          "trainNumber": "17325",
+          "trainName": "Vishwamanava Express",
+          "trainNameKannada": "ವಿಶ್ವಮಾನವ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "platform": 3,
+          "arrivalTime": "14:00",
+          "departureTime": "14:05",
+          "status": "ON_TIME",
+          "coachSequence": ["Engine", "General", "S1", "S2", "Ladies", "S3", "Sleeper"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 4
+        },
+        {
+          "trainNumber": "16232",
+          "trainName": "Mysuru - Mayiladuthurai Express",
+          "trainNameKannada": "ಮೈಸೂರು - ಮಯಿಲಾಡುತುರೈ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "platform": 2,
+          "arrivalTime": "18:45",
+          "departureTime": "18:50",
+          "status": "CANCELLED",
+          "coachSequence": ["Engine", "General", "S1", "S2", "S3", "Ladies", "Sleeper", "AC", "AC2"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bengaluru",
+      "nameKannada": "ಬೆಂಗಳೂರು",
+      "code": "SBC",
+      "trains": [
+        {
+          "trainNumber": "12007",
+          "trainName": "Shatabdi Express",
+          "trainNameKannada": "ಶತಾಬ್ದಿ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "platform": 5,
+          "arrivalTime": "06:00",
+          "departureTime": "06:05",
+          "status": "ON_TIME",
+          "coachSequence": ["Engine", "AC Chair", "AC Chair", "General", "Ladies"],
+          "generalCoachPosition": 3,
+          "ladiesCoachPosition": 4
+        },
+        {
+          "trainNumber": "16558",
+          "trainName": "Karnataka Express",
+          "trainNameKannada": "ಕರ್ನಾಟಕ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "platform": 8,
+          "arrivalTime": "09:20",
+          "departureTime": "09:30",
+          "status": "ON_TIME",
+          "coachSequence": ["Engine", "General", "S1", "S2", "Ladies", "S3", "Sleeper", "AC"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 4
+        },
+        {
+          "trainNumber": "12627",
+          "trainName": "Karnataka Sampark Kranti",
+          "trainNameKannada": "ಕರ್ನಾಟಕ ಸಂಪರ್ಕ ಕ್ರಾಂತಿ",
+          "platform": 6,
+          "arrivalTime": "13:15",
+          "departureTime": "13:25",
+          "status": "DELAYED",
+          "coachSequence": ["Engine", "General", "S1", "S2", "S3", "Ladies", "Sleeper"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mandya",
+      "nameKannada": "ಮಂಡ್ಯ",
+      "code": "MYA",
+      "trains": [
+        {
+          "trainNumber": "16227",
+          "trainName": "Mysuru Express",
+          "trainNameKannada": "ಮೈಸೂರು ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "platform": 1,
+          "arrivalTime": "07:45",
+          "departureTime": "07:47",
+          "status": "ON_TIME",
+          "coachSequence": ["Engine", "General", "S1", "S2", "Ladies", "S3"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 4
+        },
+        {
+          "trainNumber": "17307",
+          "trainName": "Basava Express",
+          "trainNameKannada": "ಬಸವ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "platform": 2,
+          "arrivalTime": "11:10",
+          "departureTime": "11:12",
+          "status": "ON_TIME",
+          "coachSequence": ["Engine", "General", "S1", "Ladies", "S2", "Sleeper"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 3
+        },
+        {
+          "trainNumber": "16220",
+          "trainName": "Tippu Express",
+          "trainNameKannada": "ಟಿಪ್ಪು ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "platform": 1,
+          "arrivalTime": "16:30",
+          "departureTime": "16:32",
+          "status": "DELAYED",
+          "coachSequence": ["Engine", "General", "S1", "S2", "Ladies"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Hassan",
+      "nameKannada": "ಹಾಸನ",
+      "code": "HAS",
+      "trains": [
+        {
+          "trainNumber": "17301",
+          "trainName": "Hassan - Mysuru Passenger",
+          "trainNameKannada": "ಹಾಸನ - ಮೈಸೂರು ಪ್ಯಾಸೆಂಜರ್",
+          "platform": 1,
+          "arrivalTime": "05:30",
+          "departureTime": "05:35",
+          "status": "ON_TIME",
+          "coachSequence": ["Engine", "General", "General", "Ladies"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 3
+        },
+        {
+          "trainNumber": "16517",
+          "trainName": "Kannur Express",
+          "trainNameKannada": "ಕಣ್ಣೂರು ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "platform": 2,
+          "arrivalTime": "12:00",
+          "departureTime": "12:05",
+          "status": "ON_TIME",
+          "coachSequence": ["Engine", "General", "S1", "S2", "Ladies", "Sleeper", "AC"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 4
+        },
+        {
+          "trainNumber": "16206",
+          "trainName": "Mysuru - Talaguppa Express",
+          "trainNameKannada": "ಮೈಸೂರು - ತಳಗುಪ್ಪ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "platform": 1,
+          "arrivalTime": "19:20",
+          "departureTime": "19:25",
+          "status": "CANCELLED",
+          "coachSequence": ["Engine", "General", "S1", "S2", "Ladies", "S3"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Shivamogga",
+      "nameKannada": "ಶಿವಮೊಗ್ಗ",
+      "code": "SMET",
+      "trains": [
+        {
+          "trainNumber": "16590",
+          "trainName": "Rani Chennamma Express",
+          "trainNameKannada": "ರಾಣಿ ಚೆನ್ನಮ್ಮ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "platform": 2,
+          "arrivalTime": "08:00",
+          "departureTime": "08:10",
+          "status": "ON_TIME",
+          "coachSequence": ["Engine", "General", "S1", "S2", "Ladies", "S3", "Sleeper", "AC"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 4
+        },
+        {
+          "trainNumber": "17309",
+          "trainName": "Vasco da Gama Express",
+          "trainNameKannada": "ವಾಸ್ಕೋ ಡಾ ಗಾಮಾ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "platform": 1,
+          "arrivalTime": "14:30",
+          "departureTime": "14:40",
+          "status": "DELAYED",
+          "coachSequence": ["Engine", "General", "S1", "Ladies", "S2", "Sleeper"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 3
+        },
+        {
+          "trainNumber": "16217",
+          "trainName": "Shivamogga Town - Mysuru Passenger",
+          "trainNameKannada": "ಶಿವಮೊಗ್ಗ ಟೌನ್ - ಮೈಸೂರು ಪ್ಯಾಸೆಂಜರ್",
+          "platform": 3,
+          "arrivalTime": "17:00",
+          "departureTime": "17:05",
+          "status": "ON_TIME",
+          "coachSequence": ["Engine", "General", "General", "Ladies"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Hubballi",
+      "nameKannada": "ಹುಬ್ಬಳ್ಳಿ",
+      "code": "UBL",
+      "trains": [
+        {
+          "trainNumber": "12779",
+          "trainName": "Vasco Express",
+          "trainNameKannada": "ವಾಸ್ಕೋ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "platform": 4,
+          "arrivalTime": "07:00",
+          "departureTime": "07:15",
+          "status": "ON_TIME",
+          "coachSequence": ["Engine", "General", "S1", "S2", "Ladies", "S3", "Sleeper", "AC", "AC2"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 4
+        },
+        {
+          "trainNumber": "16535",
+          "trainName": "Gol Gumbaz Express",
+          "trainNameKannada": "ಗೋಲ್ ಗುಂಬಜ್ ಎಕ್ಸ್‌ಪ್ರೆಸ್",
+          "platform": 2,
+          "arrivalTime": "11:45",
+          "departureTime": "11:55",
+          "status": "ON_TIME",
+          "coachSequence": ["Engine", "General", "S1", "S2", "S3", "Ladies", "Sleeper"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 5
+        },
+        {
+          "trainNumber": "17318",
+          "trainName": "Hubballi - Mysuru Passenger",
+          "trainNameKannada": "ಹುಬ್ಬಳ್ಳಿ - ಮೈಸೂರು ಪ್ಯಾಸೆಂಜರ್",
+          "platform": 1,
+          "arrivalTime": "20:00",
+          "departureTime": "20:10",
+          "status": "DELAYED",
+          "coachSequence": ["Engine", "General", "General", "Ladies", "S1"],
+          "generalCoachPosition": 1,
+          "ladiesCoachPosition": 3
+        }
+      ]
+    }
+  ]
+}
